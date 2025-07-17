@@ -1,0 +1,7 @@
+ray
+fastapi
+uvicorn
+docling
+ray[serve]
+markitdown[all]
+python-multipart
